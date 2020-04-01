@@ -1,0 +1,27 @@
+Sitemaps are to a website what the table of contents are to a book. They enlist the links to every page of your website like a catalog in the form of HTML or XML files and also contain the metadata for their keyword oriented descriptions to help make them more readily accessible to the search engines.
+
+Types of sitemaps
+
+Sitemaps are basically of two types. One is the HTML site-mapping which deals with the over-all user interaction of the website and provides the visitor with a clear preview of what the website is like. It is designed to improve the human-web interface.
+
+The other one is XML site-mapping. It is an XML file stored in the website root folder. These files display priorities and the relative instances they occur in to help enhance its optimization during a search engine navigation. You can get one for your website using the free online sitemap generator and embed this tool in your website's structure right away to improve its discovery in web searches.
+
+The basic idea
+
+Imagine having to look something up inside a book without going through its table of contents. It's not only time-consuming, it's very inconvenient. Same is the case with websites. Sitemaps basically act like the table of contents as one of their many uses. Whether you're a webmaster, a designer, developer or just a website owner, an effective planning tool in the form of a sitemap can provide you with a centralized organization of all the content needed to be planned on your website.
+
+What makes it so useful?
+
+The latest search engine algorithms navigate through websites via their sitemaps like geo navigation in maps. It explores and indexes your website according to its sitemap. You can provide vital metadata to search engines to help potential visitors find exactly what they need. Here are a few important benefits you can get as a direct result of embedding sitemaps in your web structure:
+
+Crawling Orders:
+A sitemap tells the search engine to give the crawling process the maximum possible priority. Crawling means ordering the webpages on your website in a manner of increasing importance, from the most to the least significant. It helps in bringing up the richer content to surface and maintaining an elegant outlook.
+
+Digging up valuable content:
+If a search query matches with your content and your content is in a deep directory, site mapping will guide the search engines inside so none of your valuable data misses out on navigational exposure.
+
+Clarifying purposes and goals:
+Your website needs to manifest its main theme in the search results. The most efficient way to do this is tying the main ideas of your whole site together and binding them into a sitemap which represents it.
+
+Avoiding repetitiveness
+Sometimes what happens is that you lose track of the content that's already up there and add things again similar to them. This causes duplication and information that conflicts one another. Mapping your site will uphold the credibility of your content by helping you keep track.
