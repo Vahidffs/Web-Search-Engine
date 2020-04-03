@@ -1,29 +1,29 @@
 
 public class Word implements Comparable<Object> {
 
-	String aWord;
-	int wordCount;
+	String oneWord;
+	int counter;
 	
-	Word(String aWord, int wordCount) {
-		this.aWord = aWord;
-		this.wordCount = 1;
+	Word(String oneWord, int counter) {
+		this.oneWord = oneWord;
+		this.counter = 1;
 	}
-	public String getaWord() {
-		return aWord;
+	public String getoneWord() {
+		return oneWord;
 	}
-	public void setaWord(String aWord) {
-		this.aWord = aWord;
+	public void setoneWord(String oneWord) {
+		this.oneWord = oneWord;
 	}
-	public int getWordCount() {
-		return wordCount;
+	public int getcounter() {
+		return counter;
 	}
-	public void setWordCount(int wordCount) {
-		this.wordCount = wordCount;
+	public void setcounter(int counter) {
+		this.counter = counter;
 	}
 	
 	@Override
 	public String toString() {
-		return "Word: " + aWord + ", count: " + wordCount;
+		return "Word: " + oneWord + " *** Frequency: " + counter;
 	}
 	
 	@Override
@@ -31,7 +31,7 @@ public class Word implements Comparable<Object> {
 		
 		Word newWord = (Word)o; 
 
-		return this.aWord.compareTo(newWord.getaWord()); 
+		return this.oneWord.compareTo(newWord.getoneWord()); 
 	}
 	
 }

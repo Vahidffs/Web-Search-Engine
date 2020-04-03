@@ -240,7 +240,7 @@ public class BinarySearchTree{
      else if( compareResult > 0 )
          return findandupdate( x, t.right );
      else
-    	 t.element.wordCount++;
+    	 t.element.counter++;
          return t.element;    // Match
  }
  /**
